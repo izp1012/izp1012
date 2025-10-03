@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-#### 🌱 학습하고 있어요 : Java, Java Quartz Scheduler, Spring, SpringAI, Redis, Kafka
+#### 🌱 학습하고 있어요 : Java, Java Quartz Scheduler, Spring, JPA, SpringAI, Redis, Kafka
 #### 🤔 현재 관심갖고 있어요 : Redis, Kafka, SpringAI
 
 
