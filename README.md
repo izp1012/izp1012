@@ -20,6 +20,9 @@ Here are some ideas to get you started:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=izp1012&theme=dark&show_icons=true)
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=izp1012&layout=compact&theme=gruvbox)-->
+<!-- ![Medium Blog](https://github-readme-cards.vercel.app/medium/user/lav.nya.verma?count=5&theme=onedark) 
+<img width="400" height="120" alt="image" src="https://github-readme-cards.vercel.app/medium/user/izp1012?count=5&theme=tokyonight" /><!-- 
+
 
 
 ---
